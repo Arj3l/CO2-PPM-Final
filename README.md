@@ -33,4 +33,8 @@
 (conclusion) - [text form] This will be a brief conclusion of the project, summarizing the key findings and insights from the analysis.
 
 ## Contributors
+
+Manuel E. Mendez. Jr.
 Kiyoharu Sarmiento
+Rijel S. Tayag
+
