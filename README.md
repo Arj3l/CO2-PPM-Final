@@ -6,10 +6,9 @@ How CO2 Level in Hawaii have increased over the years?
 
 The dataset was gathered in Mauna Loa, Hawaii. Each month per year, new data is being added. The rows of the dataset are Date, Decimal Date, Average, Interpolated, Trend, Number of Days and __parsed_extra
 
-
 ## Summary of Findings
 
-(summary_of_findings) - [text form] This will be a brief summary of the findings of the project.
+Based from the dataset, the CO2 level in Mauna Loa, Hawaii is constantly since 1958. From 315.71 in March 1958, the CO2 (PPM) have increased to 422.99 in August 2024.
 
 ## Data Preprocessing
 
