@@ -19,9 +19,10 @@ Based from the dataset, the CO2 level in Mauna Loa, Hawaii is constantly since 1
 ### Visualization
 
 ![CO2 Levels Overtime](plot-img/CO2-Overtime.png)
-The line graph shows that the CO2 levels have consistently increasing. This upward trend indicates a signifiicant acceleration in atmospheric CO2 concentrations that is likely driven by human activities. The sharp rise in CO2 levels poses a critical challenge for global climate stability.
+The line graph shows that the CO2 levels have consistently increasing each year. This upward trend indicates a signifiicant acceleration in atmospheric CO2 concentrations that is likely driven by human activities. The sharp rise in CO2 levels poses a critical challenge for global climate stability.
 
-![CO2 Levels Per Year](plot-img/CO2_Year.png)
+![CO2 Levels Per Decade](plot-img/CO2-Decade.png)
+The box plot shows that the CO2 levels have consistently increasing each decade starting around 320 ppm in the 1960s and surpassing 420 ppm in the 2020s.
 
 ## Model Development
 
@@ -37,5 +38,4 @@ The line graph shows that the CO2 levels have consistently increasing. This upwa
 
 ## Contributors
 
-Manuel E. Mendez. Jr., Kiyoharu Sarmiento, and Rijel S. Tayag
 
