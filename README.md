@@ -12,7 +12,7 @@ Based from the dataset, the CO2 level in Mauna Loa, Hawaii is constantly since 1
 
 ## Data Preprocessing
 
-(data_preprocessing) - [text form] This will be a brief description of the data preprocessing steps that you have taken to clean and prepare the dataset for analysis.
+We started by cleaning The data set by removing any rows with missing values. then, we converted the 'Date' column to a datetime format and extracted the year, month, and day into separate columns. This helps us work with the data more easily. To make the data easier to visualize, we created a new column called 'Year Group' that categorize the years into different groups (ex. 1958-1969, 70s, 80s, etc.). This helps us see trends over different time periods.
 
 ## Exploratory Data Analysis
 
@@ -26,15 +26,15 @@ The box plot shows that the CO2 levels have consistently increasing each decade 
 
 ## Model Development
 
-(model_development) - [text form] This will be a brief description of the model development process that you have taken to create the model for the project.
+We used 'Year' and 'Month' as features and 'Interpolated' as the target variable to predict CO2 levels. We split the data into two parts: one for training the model and one for testing it. We tried four different models: First, we trained each model using training data. Then, we tested how well each model worked using the test data. This helps us see which model can best predict CO2 levels based on the year and month.
 
 ## Model Evaluation
 
-(model_evaluation) - [text form] This will be a brief description of the model evaluation process that you have taken to evaluate the model's performance for the project.
+To see how well each model worked, we used three main measures: Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2). MAE tells us how close the predictions are to the actual values, MSE gives us the average squared difference between predictions and actual values, and R2 shows how well the model explains the variance in the data. We tested each model with the test data and compard their MAE, MSE, and R2 scores. This helped us see which model performed the best at predicting CO2 levels based on the year and month. 
 
 ## Conclusion
 
-(conclusion) - [text form] This will be a brief conclusion of the project, summarizing the key findings and insights from the analysis.
+In this project, we looked at how CO2 levels in Mauna Loa, Hawaii, have changed from 1958 to 2024. We found that CO2 levels have been going up a lot, which is mostly because of human activities. The graphs we made show that CO2 levels started around 320 ppm n the 1960s and went over 420 ppm. We have used 4 models to predict future Co2 levels. The Random Forest model was the most accurate. This project highlights the need to monitor and reduce C02 levels to protect our environment.
 
 ## Contributors
 
