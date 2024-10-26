@@ -1,4 +1,4 @@
-# CO2-PPM-Final
+# CO2 PPM - Trends in Atmospheric Carbon Dioxide
 
 (project_description) - [text form] This will be in the form of a question or a statement that describes the project, like an overview of the project.
 
