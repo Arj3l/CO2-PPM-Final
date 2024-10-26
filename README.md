@@ -18,6 +18,8 @@
 
 ### Visualization
 
+![CO2 Levels Per Year](plot-img/CO2_Year.png)
+![CO2 Levels Overtime](plot-img/CO2-Overtime.png)
 (visualization) - [image form] This will be a visualization of the data that you have chosen to represent in the project; each visualization must have a corresponding interpretation. All visualizations must be placed here.
 
 ## Model Development
