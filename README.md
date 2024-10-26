@@ -34,7 +34,5 @@
 
 ## Contributors
 
-Manuel E. Mendez. Jr.
-Kiyoharu Sarmiento
-Rijel S. Tayag
+Manuel E. Mendez. Jr., Kiyoharu Sarmiento, and Rijel S. Tayag
 
