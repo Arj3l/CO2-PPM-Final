@@ -1,4 +1,4 @@
-# CO2-PPM-Final
+# CO2 PPM - Trends in Atmospheric Carbon Dioxide
 
 (project_description) - [text form] This will be in the form of a question or a statement that describes the project, like an overview of the project.
 
@@ -33,7 +33,4 @@
 (conclusion) - [text form] This will be a brief conclusion of the project, summarizing the key findings and insights from the analysis.
 
 ## Contributors
-
-Manuel E. Mendez Jr.
 Kiyoharu Sarmiento
-Rijel S. Tayag
