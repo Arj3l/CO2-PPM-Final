@@ -1,10 +1,11 @@
 # CO2 PPM - Trends in Atmospheric Carbon Dioxide
 
-How CO2 Level in Hawaii have increased to date?
+How CO2 Level in Hawaii have increased over the years?
 
 ## Dataset Description
 
-(dataset_description) - [text form] This will be a brief description of the dataset that you have chosen for the project.
+The dataset was gathered in Mauna Loa, Hawaii. Each month per year, new data is being added. The rows of the dataset are Date, Decimal Date, Average, Interpolated, Trend, Number of Days and __parsed_extra
+
 
 ## Summary of Findings
 
